@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909223057853",
+    "project_id": "signup-be489",
+    "storage_bucket": "signup-be489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909223057853:android:5b959f5548c2fe5ede9ad4",
+        "android_client_info": {
+          "package_name": "edu.newhaven.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909223057853-o1kre9027k8l4u8meli1a0vf6cqcgaca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfs1KV2mcKsUB2wjcZJk8ySj0XjBCxlfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909223057853-o1kre9027k8l4u8meli1a0vf6cqcgaca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
