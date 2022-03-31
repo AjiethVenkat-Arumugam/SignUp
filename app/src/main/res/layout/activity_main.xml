@@ -50,6 +50,12 @@
                 android:textColorHint="@color/white"
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
                 android:hint="@string/signUp_hint_first_name"
+                android:theme="@style/TextInputLayoutStyle"
+                app:boxCornerRadiusTopStart="16dp"
+                app:boxCornerRadiusBottomEnd="16dp"
+                app:boxCornerRadiusBottomStart="16dp"
+                app:boxCornerRadiusTopEnd="16dp"
+                app:boxStrokeColor="@color/green"
                 >
 
                 <com.google.android.material.textfield.TextInputEditText
@@ -71,11 +77,12 @@
                 android:layout_height="wrap_content"
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
                 android:hint="@string/signUp_hint_email"
+                android:theme="@style/TextInputLayoutStyle"
                 app:boxCornerRadiusTopStart="16dp"
                 app:boxCornerRadiusBottomEnd="16dp"
                 app:boxCornerRadiusBottomStart="16dp"
                 app:boxCornerRadiusTopEnd="16dp"
-                app:boxStrokeErrorColor="@color/colorAccent"
+                app:boxStrokeColor="@color/green"
                 android:textColorHint="@color/white"
                 >
 
@@ -99,6 +106,12 @@
                 android:layout_height="wrap_content"
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
                 android:hint="@string/signUp_hint_password"
+                android:theme="@style/TextInputLayoutStyle"
+                app:boxCornerRadiusTopStart="16dp"
+                app:boxCornerRadiusBottomEnd="16dp"
+                app:boxCornerRadiusBottomStart="16dp"
+                app:boxCornerRadiusTopEnd="16dp"
+                app:boxStrokeColor="@color/green"
                 android:textColorHint="@color/white"
                 >
 
@@ -122,6 +135,12 @@
                 android:layout_height="wrap_content"
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
                 android:hint="@string/signUp_hint_website"
+                android:theme="@style/TextInputLayoutStyle"
+                app:boxCornerRadiusTopStart="16dp"
+                app:boxCornerRadiusBottomEnd="16dp"
+                app:boxCornerRadiusBottomStart="16dp"
+                app:boxCornerRadiusTopEnd="16dp"
+                app:boxStrokeColor="@color/green"
                 android:textColorHint="@color/white"
                 >
 

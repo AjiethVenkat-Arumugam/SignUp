@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">SignUp</string>
-    <string name = "signUp_Title">Profile Creation</string>
-    <string name = "signUp_SubTitle">Use the form to submit your portfolio.\n An email and password are required</string>
+    <string name="signUp_Title">Profile Creation</string>
+    <string name="signUp_SubTitle">Use the form to submit your portfolio.\n An email and password are required</string>
     <string name="signUp_hint_first_name">First Name</string>
     <string name="signUp_hint_email">Email Address</string>
     <string name="signUp_hint_password">Password</string>
