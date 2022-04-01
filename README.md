@@ -11,4 +11,4 @@ Technology Used:
 
 Application Running:
 
-Clone the Repo and build the application -> Run Application
+Clone the Repo -> build the application -> Run Application
