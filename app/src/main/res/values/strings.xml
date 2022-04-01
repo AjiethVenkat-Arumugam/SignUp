@@ -3,9 +3,18 @@
     <string name="signUp_Title">Profile Creation</string>
     <string name="signUp_SubTitle">Use the form to submit your portfolio.\n An email and password are required</string>
     <string name="signUp_hint_first_name">First Name</string>
+    <string name="signedUp_Title"> Hello, %s! </string>
+    <string name="signedUp_SubTitle">"Your super awesome portfolio has been successfully submitted! The details below will be public within your community"</string>
     <string name="signUp_hint_email">Email Address</string>
     <string name="signUp_hint_password">Password</string>
     <string name="signUp_hint_website">Website</string>
-    <string name="signUp_hint_submit">Submit</string>
+    <string name="signUp_hint">Sign Up</string>
+    <string name="singIn_hint">Sign In</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="website">Website</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="none">None</string>
 
 </resources>
